@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashik Ahmed Fahim</h1>
-<h3 align="center">A passionate Full Stack and App</h3>
+<h3 align="center">A passionate Full Stack and App Developer</h3>
 
 - 🔭 I’m currently working on **Lacuna-E-Commerce , SolarPower**
 
@@ -15,11 +15,8 @@
 
 ![Ashik Ahmed Fahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashikahmedfahim&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashikahmedfahim&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <a href="https://github.com/ashikahmedfahim">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashikahmedfahim&theme=dark&hide_langs_below=1" />
-</a>
-<a href="https://github.com/ashikahmedfahim">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=ashikahmedfahim&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
 </a>
