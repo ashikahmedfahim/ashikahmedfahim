@@ -9,7 +9,8 @@
 - 📫 How to reach me **ashikahmed96@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
-<i class="devicon-javascript-plain"></i>
+<p>
+<i class="devicon-javascript-plain"></i></p>
 
 
 
