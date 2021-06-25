@@ -6,7 +6,7 @@
 
 - 🤔 I’m looking for help with **NodeJS , ReactJS, Flutter**
 
-- 📫 How to reach me **ashikahmed96@gmail.com , https://www.facebook.com/cs.ashik.ahmed.fahim/**
+- 📫 How to reach me **ashikahmed96@gmail.com , https://www.facebook.com/cs.ashik.ahmed.fahim/ , https://www.linkedin.com/in/ashik-ahmed-fahim/ **
 
 <a href="https://github.com/ashikahmedfahim">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashikahmedfahim&theme=dark&hide_langs_below=1" />
