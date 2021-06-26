@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.11.0/devicon.min.css">
 <h1 align="center">Hi 👋, I'm Ashik Ahmed Fahim</h1>
-<h3 align="center">A passionate novice Full Stack and App Developer</h3>
+<h3 align="center">A passionate novice MERN Stack and App Developer</h3>
 
 - 🔭 I’m currently working on **Lacuna-E-Commerce , SolarPower**
 
