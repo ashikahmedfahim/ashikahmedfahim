@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.11.0/devicon.min.css">
 <h1 align="center">Hi 👋, I'm Ashik Ahmed Fahim</h1>
-<h3 align="center">A passionate novice MERN Stack Developer</h3>
+<h3 align="center">An experinced MERN Stack Developer</h3>
 
 - 🤔 I’m looking for help with **TypeScript, NodeJS ,ExpressJs, NextJs, ReactJs**
 
